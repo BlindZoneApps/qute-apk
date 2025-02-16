@@ -8,8 +8,6 @@ Download Qute apk
 [<img src="https://github.com/user-attachments/assets/3811fb3b-3817-4384-b116-5815283964c8" alt="Get it on GitHub" height="80">](https://github.com/BlindZoneApps/qute-apk/releases/latest)
 [<img src="https://github.com/user-attachments/assets/9abc74de-aca6-4975-b1c0-8689a881aa21" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.ddm.qute)
 
-**NOTICE: We strongly recommend getting the app from Google Play. Please note that if you are using an apk file from this repository, you will need to first delete the original application downloaded through Google Play, because it is signed by Google.** 
-
 ## Features
 * Autorun and creation of shortcuts
 * Bash script editor
